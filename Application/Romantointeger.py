@@ -36,8 +36,6 @@ def calculte_number(s):
         else:
             result += between[i]
 
-
-    
     result_label.config(text=f'Результат: {result}')
 
 
